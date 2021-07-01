@@ -1,0 +1,5 @@
+git remote add origin https://github.com/sydneymurray/boolean-uk-react-whatsup.git
+git branch -M main
+git push -u origin main
+
+kjhgkjhkjhkj;klj;lkj
